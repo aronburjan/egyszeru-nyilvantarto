@@ -1,0 +1,62 @@
+body {
+	background-color: #7AF3AD;
+}
+
+.dropdown{
+	display: inline;
+	padding: 0px;
+	font-size: 25px;
+	text-align: left;
+	margin-left: 10px;
+}
+
+#displayform{
+	width: 100%;
+  padding: 5px 5px;
+  margin: 0px 0;
+  box-sizing: border-box;
+}
+
+#orderform{
+	width: 100%;
+  padding: 5px 5px;
+  margin: 0px 0;
+  box-sizing: border-box;
+}
+
+.form-group{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	font-size: 20px;
+	background-color: #7AF3AD;
+	margin-left: 0%;
+	transition: 0.7s;
+	width: 20%;
+}
+
+.form-group:hover{
+	background-color: #19C662;
+}
+
+#hozzaadbutton{
+	color: #000000;
+	background-color: #FFFFFF;
+	transition: 0.3s;
+	border: none;
+}
+
+#hozzaadbutton:hover{
+	background-color: #19E83E;
+}
+
+#megvaltoztatbutton{
+	color: #000000;
+	background-color: #FFFFFF;
+	transition: 0.3s;
+	border: none;
+}
+
+#megvaltoztatbutton:hover{
+	background-color: #19E83E;
+}

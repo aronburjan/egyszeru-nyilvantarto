@@ -1,0 +1,25 @@
+body {
+ background-image: url("background.png");
+}
+
+
+.container {
+	margin-top: 200px;
+  background-color: #A2F28D;
+  height: 30%;
+  width: 30%;
+  padding-bottom: 25px;
+  box-shadow: 10px 10px 8px 10px #4C4848;
+}
+
+#loginbutton{
+	color: #000000;
+	background-color: #FFFFFF;
+	transition: 0.3s;
+	border: none;
+	
+}
+
+#loginbutton:hover{
+	background-color: #46CFB2;
+}

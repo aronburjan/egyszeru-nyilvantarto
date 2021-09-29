@@ -1,0 +1,3 @@
+admin: admin admin
+példa 1: PeldaEgy 12345
+példa 2: PeldaKetto 54321
